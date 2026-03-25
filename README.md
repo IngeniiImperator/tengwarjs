@@ -1,7 +1,10 @@
 
-> ✨ This fork is maintained by [VerbosAI](https://verbos.ai). Check out
-> [The Shire Door](https://theshiredoor.com) — a project bringing this
-> Elvish transcription to life.
+> ✨ This fork is maintained by [VerbosAI](https://verbos.ai) — visit for more
+> projects and tools.
+>
+> 🧙 Built something with this library? Check out [The Shire Door](https://the-shire-door.vercel.app) —
+> a LOTR-themed party coordination site featuring Tengwar script rendered live
+> in the browser using tengwarjs.
 
 ---
 
