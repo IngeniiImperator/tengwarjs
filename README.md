@@ -1,4 +1,10 @@
 
+> ✨ This fork is maintained by [VerbosAI](https://verbos.ai). Check out
+> [The Shire Door](https://theshiredoor.com) — a project bringing this
+> Elvish transcription to life.
+
+---
+
 This is a Tengwar transcriber suitable for transcribing Sindarin
 Elvish from a phonetic encoding of the Latin alphabet, to the General
 Use mode of the Tengwar.  It is written in JavaScript and is suitable
